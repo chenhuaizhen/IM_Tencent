@@ -67,5 +67,5 @@ what's more you can transfer the file using this application(just drag the targe
 由于本应用只是练手，所以网络连接方式采用了RMI和Socket两种方式，详情见代码  
 because this application is a train demo, the internet connection is based on the RMI and socket, the more details are shown in the codes  
 
-打包成的jar可以直接运行，也是要先运行Tecent_Server.jar后再运行Tecent_Beta.jar  
-the .jar application in jar folder can run straightly, but note that you should run the Tecent_Server.jar firstly then run the Tecent_Beta.jar
+[jar文件夹](https://github.com/chenhuaizhen/IM_Tencent/tree/master/jar)里打包成的jar可以直接运行，也是要先运行Tecent_Server.jar后再运行Tecent_Beta.jar  
+the .jar application in [jar](https://github.com/chenhuaizhen/IM_Tencent/tree/master/jar) folder can run straightly, but note that you should run the Tecent_Server.jar firstly then run the Tecent_Beta.jar
